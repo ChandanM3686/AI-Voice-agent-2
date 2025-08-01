@@ -1,2 +1,5 @@
 streamlit
-retell
+retell-sdk
+python-dotenv
+requests
+watchdog
